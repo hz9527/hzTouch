@@ -8,6 +8,14 @@
     "compile": "./node_modules/.bin/babel src --out-dir dist",
     "prepublish": "npm run compile"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hz9527/hzTouch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hz9527/hzTouch/issues"
+  },
+  "homepage": "https://github.com/hz9527/hzTouch#readme",
   "author": "hz",
   "license": "MIT",
   "devDependencies": {
